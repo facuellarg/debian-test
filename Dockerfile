@@ -19,7 +19,6 @@ RUN apt-get update && apt-get install -y \
     libsqlite3-dev \
     libncurses5-dev \
     libgdbm-dev \
-    libnss3-dev \
     liblzma-dev \
     tk-dev \
     build-essential \
